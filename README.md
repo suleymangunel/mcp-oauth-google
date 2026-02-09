@@ -1,6 +1,6 @@
 <div class="sag">
     <th><img alt="GitHub License" src="https://img.shields.io/github/license/suleymangunel/ePaperV2?style=plastic&label=License"></th>
-    <th><img alt="Static Badge" src="https://img.shields.io/badge/Language-C-red?style=plastic"></th>
+    <th><img alt="Static Badge" src="https://img.shields.io/badge/Language-Python-green?style=plastic"></th>
 </div>
 
 # mcp-oauth-google

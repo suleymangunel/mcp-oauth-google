@@ -3,7 +3,7 @@
     <th><img alt="Static Badge" src="https://img.shields.io/badge/Language-Python-green?style=plastic"></th>
 </div>
 
-# mcp-oauth-google
+# Google OAuth2 for MCP Servers
 
 Google OAuth2 authentication provider for MCP servers.
 

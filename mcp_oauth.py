@@ -1,4 +1,4 @@
-"""MCP OAuth2 + Google Login (JWKS doğrulaması ile)"""
+"""MCP OAuth2 + Google Login (JWKS verification)"""
 import json, secrets, time
 from pathlib import Path
 from types import SimpleNamespace
